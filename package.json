@@ -1,0 +1,30 @@
+{
+  "name": "ezbackup",
+  "version": "0.2.0",
+  "description": "Discord.js Bot",
+  "main": "ezbackup.js",
+  "scripts": {
+    "start": "node ezbackup.js"
+  },
+  "dependencies": {
+    "discord-backup": "^2.2.5",
+    "discord.js": "^12.3.1",
+    "fs": "0.0.1-security",
+    "js-yaml": "^3.14.0",
+    "path": "^0.12.7",
+    "quick.db": "^7.1.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [],
+  "author": "DarkBoy",
+  "contributors": [
+    "Dark Boy <darkboyisop@gmail.com> (http://discord.gg/codes)"
+  ],
+  "license": "MIT"
+}
